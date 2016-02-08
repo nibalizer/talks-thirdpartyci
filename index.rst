@@ -369,7 +369,7 @@ IBM
 
 nibz@spencerkrum.com
 
-https://github.com/nibalizer/talk-thirdpartyci
+https://github.com/nibalizer/talks-thirdpartyci
 
 
 
